@@ -1,0 +1,8 @@
+.cover__link {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.cover__link:hover .cover__container::before {
+  opacity: .8;
+}
