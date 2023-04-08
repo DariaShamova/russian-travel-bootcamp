@@ -5,3 +5,15 @@
   font-size: 14px;
   line-height: 1.14;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    align-self: flex-end;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .footer__copyright {
+    align-self: flex-start;
+  }
+}

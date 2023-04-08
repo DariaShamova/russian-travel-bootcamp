@@ -1,11 +1,10 @@
-.cards__website {
-  align-self: end;
+.card__description {
   margin: 0;
   padding: 0;
 }
 
 @media screen and (max-width: 600px) {
-  .cards__website {
+  .card__description {
     padding: 0 16px 0;
   }
 }

@@ -1,4 +1,4 @@
-.cards__paragraph {
+.card__paragraph {
   margin: 0;
   padding: 0;
   font-weight: 400;
@@ -6,13 +6,12 @@
   line-height: 1.63;
 }
 
-.cards__paragraph:not(:last-of-type) {
+.card__paragraph:not(:last-of-type) {
   padding-bottom: 26px;
 }
 
 @media screen and (max-width: 768px) {
-  .cards__paragraph {
+  .card__paragraph {
     font-size: 16px;
-    line-height: 1.63;
   }
 }
