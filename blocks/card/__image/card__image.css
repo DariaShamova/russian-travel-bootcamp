@@ -3,7 +3,7 @@
   display: block;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) and (min-width: 600px) {
   .card__image {
     max-width: 480px;
   }
