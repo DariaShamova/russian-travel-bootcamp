@@ -10,7 +10,7 @@ ___________
 * Grid
 * Transition
 
-**Ссылка на GitHub Pages: https://github.com/DariaShamova/russian-travel-bootcamp**
+**Ссылка на GitHub Pages: https://dariashamova.github.io/russian-travel-bootcamp/**
 
 *Автор проекта: Дарья Шамова*
 
